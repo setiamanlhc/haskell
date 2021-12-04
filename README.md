@@ -5,6 +5,7 @@
 git clone https://github.com/setiamanlhc/haskell.git
 ```
 ## Commit new file or updated file to repo
+You need to run "git pull" to rebased since the repo here might already change like chnages in the Readme.md here
 
 ```
 git pull
