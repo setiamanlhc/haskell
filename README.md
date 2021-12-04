@@ -26,3 +26,13 @@ General Haskell code
     f :: Char->String
     f x = x:" There is a kind of character in thy life"
 ```
+
+# Resource
+
+https://hoogle.haskell.org/
+
+https://wiki.haskell.org/99_questions/1_to_10
+
+http://learnyouahaskell.com/chapters
+
+
