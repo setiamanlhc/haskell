@@ -4,9 +4,10 @@
 ```
 git clone https://github.com/setiamanlhc/haskell.git
 ```
-## Commit new file to repo
+## Commit new file or updated file to repo
 
 ```
+git pull
 git add 99.hs
 git commit -m "practice file"
 git push origin main
