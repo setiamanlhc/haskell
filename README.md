@@ -1,3 +1,17 @@
+# Github 
+
+## Clone this repo
+```
+git clone https://github.com/setiamanlhc/haskell.git
+```
+## Commit new file to repo
+
+```
+git add 99.hs
+git commit -m "practice file"
+git push origin main
+```
+
 # haskell
 General Haskell code
 
