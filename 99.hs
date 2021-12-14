@@ -62,3 +62,8 @@ flatten (List x) = concatMap flatten x
 compress :: Eq a => [a] -> [a]
 compress []     = []
 compress (x:xs) = x : (compress $ dropWhile (== x) xs)
+
+--pack ['a', 'a', 'a', 'a', 'b', 'c', 'c', 'a', 'a', 'd', 'e', 'e', 'e', 'e']
+pack :: (Eq a) => [a] -> [[a]]
+pack [] = []
+pack (x:xs) = (x : takeWhile (==x) xs) : pack (dropWhile (==x) xs)

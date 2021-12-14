@@ -1,5 +1,7 @@
+--https://adventofcode.com/2021/day/2
 import System.IO  
 import Control.Monad
+import Numeric
 
 
 main = do  
