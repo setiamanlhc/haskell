@@ -22,4 +22,6 @@ https://wiki.haskell.org/99_questions/1_to_10
 
 http://learnyouahaskell.com/chapters
 
+Haskell & Crypto Mongolia
+https://www.youtube.com/playlist?list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm
 
