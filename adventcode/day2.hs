@@ -13,6 +13,7 @@ main = do
             result = calcDepth list
             --result = howManyIncrease list 
         print result
+        print list
         hClose handle  
 
 f :: [String] -> [Move]
