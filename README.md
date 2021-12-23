@@ -35,3 +35,8 @@ https://www.youtube.com/c/CurtisDAlves/featured
 Haskell Packages
 
 https://hoogle.haskell.org/
+
+Basic Library
+
+https://hackage.haskell.org/package/base-4.16.0.0/docs/Prelude.html
+
