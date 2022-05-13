@@ -1,3 +1,4 @@
+-- test only
 parseBool :: String -> Maybe Bool
 parseBool x = case x of
     "True" -> Just True
