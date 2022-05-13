@@ -4,6 +4,14 @@
 ```
 git clone https://github.com/setiamanlhc/haskell.git
 ```
+
+## For first time setup, configure your user name and email
+```
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
+
 ## Commit new file or updated file to repo
 You need to run "git pull" to rebased since the repo here might already change like chnages in the Readme. The example below use "git add ." to add all the changes in your repo directory. To add specific file you can replace "." with file name. 
 
