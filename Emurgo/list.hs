@@ -9,5 +9,11 @@ myTake _ [] = []
 myTake 1 (x:_) = [x]
 myTake i (x:xs) = x: myTake (i-1) xs
 
-map ($ "world") [ head, last ]
-foldl (-) 0 [ 2, 3, 4 ] 
+--map ($ "world") [ head, last ]
+--foldl (-) 0 [ 2, 3, 4 ] 
+
+myFilter :: (a -> Bool) -> [a] -> [a]
+myFilter p [] = []
+myFilter p (x:xs)
+  | p x = x : myFilter p xs
+  | otherwise = myFilter p xs
