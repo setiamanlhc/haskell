@@ -48,3 +48,7 @@ Basic Library
 
 https://hackage.haskell.org/package/base-4.16.0.0/docs/Prelude.html
 
+CSV Parser
+
+https://github.com/haskell-hvr/cassava
+
