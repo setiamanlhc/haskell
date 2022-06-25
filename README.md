@@ -52,3 +52,7 @@ CSV Parser
 
 https://github.com/haskell-hvr/cassava
 
+Functor
+
+https://www.youtube.com/watch?v=bOpJQDGYoKw
+
