@@ -56,3 +56,4 @@ Functor
 
 https://www.youtube.com/watch?v=bOpJQDGYoKw
 
+https://typeclasses.com/beginner-crash-course/functor
