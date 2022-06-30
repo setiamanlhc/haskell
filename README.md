@@ -24,7 +24,7 @@ git push origin main
 
 # Resource
 
-All you need ti know on Haskell
+All you need tO know on Haskell
 
 https://wiki.haskell.org/99_questions/1_to_10
 
