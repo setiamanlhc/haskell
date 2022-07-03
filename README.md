@@ -61,3 +61,6 @@ https://typeclasses.com/beginner-crash-course/functor
 
 https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 
+Applicative Functor
+
+https://www.youtube.com/watch?v=D4BqCwck0s0
