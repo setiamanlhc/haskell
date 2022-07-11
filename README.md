@@ -67,4 +67,11 @@ https://www.youtube.com/watch?v=D4BqCwck0s0
 
 Monad
 
+List
 https://gist.github.com/iburzynski/3ab4295e8cb530fb9cd487adad21553b
+
+Using State
+
+https://williamyaoh.com/posts/2020-07-12-deriving-state-monad.html
+
+https://williamyaoh.com/
