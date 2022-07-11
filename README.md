@@ -64,3 +64,7 @@ https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.
 Applicative Functor
 
 https://www.youtube.com/watch?v=D4BqCwck0s0
+
+Monad
+
+https://gist.github.com/iburzynski/3ab4295e8cb530fb9cd487adad21553b
